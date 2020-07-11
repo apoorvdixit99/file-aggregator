@@ -1,0 +1,3 @@
+#! /bin/bash
+#
+python3 add.py $1
